@@ -24,5 +24,37 @@
 
 
 ## Model 2
+1. Model
+
+![image](https://user-images.githubusercontent.com/48917718/121754576-f187dd00-cb4f-11eb-9778-0ee6285c7992.png)
+
+2. Training with Training loss
+
+![image](https://user-images.githubusercontent.com/48917718/121754778-6f4be880-cb50-11eb-9811-c24c75c1ed8d.png)
+
+3. Test Accuracy
+
+![image](https://user-images.githubusercontent.com/48917718/121754794-783cba00-cb50-11eb-9a85-dabb7cb07cc8.png)
+
+4. Images and corresponding probability that predicted Right
+
+![image](https://user-images.githubusercontent.com/48917718/121754807-7ffc5e80-cb50-11eb-8fba-e9cbc395cbb9.png)
+
+5. Images and corresponding probability that predicted Wrong
+
+![image](https://user-images.githubusercontent.com/48917718/121754820-85f23f80-cb50-11eb-833d-a7481931b316.png)
 
 ## Model 3
+1. Model
+
+![image](https://user-images.githubusercontent.com/48917718/121754835-91456b00-cb50-11eb-8ece-c37f361299a5.png)
+
+2. Training with Training loss
+
+
+3. Test Accuracy
+
+4. Images and corresponding probability that predicted Right
+
+
+5. Images and corresponding probability that predicted Wrong
