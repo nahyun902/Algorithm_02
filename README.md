@@ -1,6 +1,6 @@
 # Algorithm_02
 
-## Model 1
+## 1. Model 1
 1. Model
 
 ![image](https://user-images.githubusercontent.com/48917718/121754209-f5672f80-cb4e-11eb-8ad0-422dfacd6862.png)
@@ -23,7 +23,7 @@
 
 
 
-## Model 2
+## 2. Model 2
 1. Model
 
 ![image](https://user-images.githubusercontent.com/48917718/121754576-f187dd00-cb4f-11eb-9778-0ee6285c7992.png)
@@ -44,7 +44,7 @@
 
 ![image](https://user-images.githubusercontent.com/48917718/121754820-85f23f80-cb50-11eb-833d-a7481931b316.png)
 
-## Model 3
+## 3. Model 3
 1. Model
 
 ![image](https://user-images.githubusercontent.com/48917718/121754835-91456b00-cb50-11eb-8ece-c37f361299a5.png)
